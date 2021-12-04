@@ -1,0 +1,20 @@
+﻿D:\C++\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: O diretório intermediário (Debug\) contém arquivos compartilhados de outro projeto (HackAnyGamePt2.vcxproj). Isso pode levar a um comportamento incorreto de limpeza e recompilação.
+  stdafx.cpp
+  HackAnyGamePt2.cpp
+C:\Users\Delirious\source\repos\Trainner_Ex\HackAnyGamePt2\HackAnyGamePt2.cpp(116,28): warning C4305: 'inicializando': truncamento de '__int64' para 'int'
+C:\Users\Delirious\source\repos\Trainner_Ex\HackAnyGamePt2\HackAnyGamePt2.cpp(116,18): warning C4309: 'inicializando': truncamento de valor constante
+C:\Users\Delirious\source\repos\Trainner_Ex\HackAnyGamePt2\HackAnyGamePt2.cpp(240,33): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\Delirious\source\repos\Trainner_Ex\HackAnyGamePt2\HackAnyGamePt2.cpp(241,34): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\Delirious\source\repos\Trainner_Ex\HackAnyGamePt2\HackAnyGamePt2.cpp(242,33): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\Delirious\source\repos\Trainner_Ex\HackAnyGamePt2\HackAnyGamePt2.cpp(256,33): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\Delirious\source\repos\Trainner_Ex\HackAnyGamePt2\HackAnyGamePt2.cpp(257,33): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\Delirious\source\repos\Trainner_Ex\HackAnyGamePt2\HackAnyGamePt2.cpp(258,33): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\Delirious\source\repos\Trainner_Ex\HackAnyGamePt2\HackAnyGamePt2.cpp(272,38): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\Delirious\source\repos\Trainner_Ex\HackAnyGamePt2\HackAnyGamePt2.cpp(273,38): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\Delirious\source\repos\Trainner_Ex\HackAnyGamePt2\HackAnyGamePt2.cpp(274,38): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\Delirious\source\repos\Trainner_Ex\HackAnyGamePt2\HackAnyGamePt2.cpp(288,40): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\Delirious\source\repos\Trainner_Ex\HackAnyGamePt2\HackAnyGamePt2.cpp(289,39): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\Delirious\source\repos\Trainner_Ex\HackAnyGamePt2\HackAnyGamePt2.cpp(290,40): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+  proc.cpp
+  Gerando Código...
+  HackAnyGamePt2.vcxproj -> C:\Users\Delirious\source\repos\Trainner_Ex\Debug\Bully-Trainner-External.exe
