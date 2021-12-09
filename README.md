@@ -1,4 +1,4 @@
-# Bully-External_Trainner
+# Bully-External_Trainer
 
 This is my first external trainer for games.
 I chose to start with Bully because it is an epic game and because it provides simpler reverse engineering compared to other games.
