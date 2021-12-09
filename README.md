@@ -2,9 +2,9 @@
 
 This is my first external trainer for games.
 I chose to start with Bully because it is an epic game and because it provides simpler reverse engineering compared to other games.
-This Trainner was created for the purpose of study and practice only.
+This Trainer was created for the purpose of study and practice only.
 
-<strong>Knowledge acquired in the Trainner creation process:</strong><br/>
+<strong>Knowledge acquired in the Trainer creation process:</strong><br/>
 - C++ Programming, <br/>
 - Reverse engineering,<br/>
 - Cheat Engine,<br/>
@@ -12,4 +12,4 @@ This Trainner was created for the purpose of study and practice only.
 
 # Using:
 - To use the hack just compile the Trainner using Visual Studio.
-Some anti-virus detect the trainner as malware due to its functions.
+Some anti-virus detect the trainer as malware due to its functions.
