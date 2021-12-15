@@ -14,5 +14,5 @@ This Trainer was created for the purpose of study and practice only.
 # Difference between external and internal trainer: 
 
 # Using:
-- To use the hack just compile the Trainner using Visual Studio.
+- To use the hack just compile the trainer using Visual Studio.
 Some anti-virus detect the trainer as malware due to its functions.
