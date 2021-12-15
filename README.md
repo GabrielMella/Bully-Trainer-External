@@ -1,14 +1,17 @@
-# Bully-External_Trainer
+# Bully External Trainer
 
-This is my first external trainer for games.
+This is my first external trainer hack for games.
 I chose to start with Bully because it is an epic game and because it provides simpler reverse engineering compared to other games.
 This Trainer was created for the purpose of study and practice only.
 
 <strong>Knowledge acquired in the Trainer creation process:</strong><br/>
 - C++ Programming, <br/>
+- Assembly Programming, <br/>
 - Reverse engineering,<br/>
 - Cheat Engine,<br/>
 - Find Pointers, Offsets, Entity List...<br/>
+
+# Difference between external and internal trainer: 
 
 # Using:
 - To use the hack just compile the Trainner using Visual Studio.
