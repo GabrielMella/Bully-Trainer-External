@@ -1,7 +1,7 @@
 # Bully External Trainer
 
 This is my first external trainer hack for games.
-I chose to start with Bully because it is an epic game and it provides simpler reverse engineering compared to other games.
+I chose to start with Bully because it is an epic game and provides simpler reverse engineering compared to other games.
 This Trainer was created for the purpose of study and practice only.
 
 <strong>Knowledge acquired in the Trainer creation process:</strong><br/>
