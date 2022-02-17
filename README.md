@@ -11,7 +11,6 @@ This Trainer was created for the purpose of study and practice only.
 - Cheat Engine,<br/>
 - Find Pointers, Offsets, Entity List...<br/>
 
-# Difference between external and internal trainer: 
 
 # Using:
 - To use the hack just compile the trainer using Visual Studio.
